@@ -2,16 +2,6 @@
 <html lang="en" dir="ltr">
 <head>
     <meta charset="utf-8">
-<!--     <style media="screen">
-        h1{color: black; position: relative; left: 100px; margin-top: 100px;}
-        h2{color: black; font-size: 50px;}
-        #form1{
-            position: relative; left: 500px; top: -100px;
-        }
-        #form2{
-            position: relative; left: 500px; top: -100px;
-        }
-    </style> -->
 <body>
     <div class="container">
         <div class= "row">
